@@ -235,7 +235,7 @@ def main():
                 delete_student()
                 pause()
             elif choice == "6":
-                print("👋 Goodbye! Your data has been saved to data.json.")
+                print("👋 Goodbye!! Your data has been saved to data.json.")
                 save_data()
                 break
             else:
