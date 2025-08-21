@@ -19,7 +19,7 @@ python student_mgmt.py
 ## Data Model
 Each student is a dictionary:
 ```json
-{"roll_no": "101", "name": "Alice", "grade": "A", "age": "15"}
+{"roll_no": "101", "name": "Abhi", "grade": "A", "age": "22"}
 ```
 
 ## Project Structure
@@ -41,7 +41,7 @@ Follow the on-screen menu:
 5) Delete Student  
 6) Exit
 
-## Improvements (nice extras)
+## Improvements
 - Search by name (partial match)
 - Sort by roll no or name
 - Export to CSV
